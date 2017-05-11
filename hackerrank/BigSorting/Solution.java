@@ -1,9 +1,11 @@
+package BigSorting;
+
 import java.math.BigInteger;
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.Scanner;
 
-class Solution {
+public class Solution {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
